@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{34565134-2B11-DB0D-EA1A-6BF807241180}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Project/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Project/Scripts/Player.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New3D" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Project" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="73e5f1a6-ac8c-4d3b-b4af-35990380af60" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
